@@ -12,8 +12,11 @@
  
  ## Description of the differences in ride-sharing data among the different city types. 
  
- Ride-sharing data include the total rides:
- total drivers:
+ ### Ride-sharing data include the total rides:
+ total drivers: The average number of drivers in rural cities is nine to four times less per city
+ than in urban and suburban cities.
+ 
+ 
  total fares:
  average fare per ride and driver: 
  total fare by city type:
